@@ -11,7 +11,7 @@ food = 'sushi'
 email = 'srishti123@gmail.com'
 
 #f string (f''/f"") is used to add a text with the variable.
-# {} is called a place holder which is used to specify the string/integer/float/boolean with the added text.
+# {} is called a place holder which is used to specify the variable(string/integer/float/boolean) with the added text.
 
 print(f'hello {first_name}')
 print(f'your favourite food is : {food}')
