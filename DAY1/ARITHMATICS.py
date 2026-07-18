@@ -56,6 +56,7 @@ circumference= 2 * math.pi * radius
 print(f'the circumference of the circle is {circumference} cms')
 
 #MAKE A PROGRAM TO FIND THE AREA OF THE CIRCLE
+#FORMULA IS = (A=piR^2)
 radius2 = float(input('enter a radius:'))
 area= math.pi * pow(radius2,2)
 print(f'the area of this circle is {round(area,2)} cms')
